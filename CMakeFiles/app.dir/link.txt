@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/app.dir/app.cpp.o  -o app -Wl,-rpath,/Users/andy/libtorch/lib /Users/andy/libtorch/lib/libtorch.dylib /Users/andy/libtorch/lib/libcaffe2.dylib /Users/andy/libtorch/lib/libc10.dylib 
